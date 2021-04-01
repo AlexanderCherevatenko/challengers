@@ -1,10 +1,10 @@
 jmeter.bat -n -t challengers.jmx -l log.jtl
-
-RegExp Extractor + для параметров логина
-CSV Data set Config + для возраса
-JSR223 Sampler + для парсинка таблицы
-gui mode +
-профиль +
-дашборды +
-проверка -
-все шаги -
+<br>
+RegExp Extractor + для параметров логина <br>
+CSV Data set Config + для возраса <br>
+JSR223 Sampler + для парсинка таблицы <br>
+gui mode + <br>
+профиль + <br>
+дашборды + <br>
+проверка - <br>
+все шаги - <br>
